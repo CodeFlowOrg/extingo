@@ -2,4 +2,4 @@
 chrome extension
 
 # SnapShot of Extension
-<img align="left" src="Snapshot.png">
+<img align="left" src="Snapshot.png" height="250" >
