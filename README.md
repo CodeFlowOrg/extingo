@@ -1,12 +1,13 @@
 # Extingo
 chrome extension
-<div>
+
      
 ## SnapShot of Extension
 ### Codeflow Extension
 <img align="left" src="Snapshot.png" height="250" />  
 
-</div>
+
+## How to contribute ?
 
 To start contributing, follow the below guidelines: 
 
