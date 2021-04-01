@@ -1,12 +1,13 @@
 # Extingo
 chrome extension
-
+<div>
+     
 ## SnapShot of Extension
 ### Codeflow Extension
 <img align="left" src="Snapshot.png" height="250" />  
-</br>
 
-<div>
+</div>
+
 To start contributing, follow the below guidelines: 
 
 **1.**  Fork [this](git@github.com:CodeFlow201/extingo.git) repository.
@@ -42,4 +43,3 @@ To start contributing, follow the below guidelines:
   </tr>
 </table>
 
-</div>
