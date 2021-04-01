@@ -1,5 +1,5 @@
 # Extingo
-chrome extension
+Chrome extension
 
      
 ## SnapShot of All Extensions (to be attacked here)
