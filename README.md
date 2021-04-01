@@ -2,7 +2,7 @@
 chrome extension
 
      
-## SnapShot of Extension
+## SnapShot of All Extensions (to be attacked here)
 ### Codeflow Extension
 <img align="left" src="Snapshot.png" height="250" />  
 
