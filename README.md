@@ -5,6 +5,7 @@ chrome extension
 ### Codeflow Extension
 <img align="left" src="Snapshot.png" height="250" > 
 
+<br>
 ## Want to Contribute?
 
 To start contributing, follow the below guidelines: 
