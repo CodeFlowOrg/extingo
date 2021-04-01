@@ -3,9 +3,9 @@ chrome extension
 
 ## SnapShot of Extension
 ### Codeflow Extension
-<img align="left" src="Snapshot.png" height="250" > 
+<img align="left" src="Snapshot.png" height="250" /> 
 
-<br>
+<br/>
 ## Want to Contribute?
 
 To start contributing, follow the below guidelines: 
