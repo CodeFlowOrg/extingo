@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Codeflow links",
+    "description": "It contains all the links of codeflow organization",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_icon": "16.jpg",
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }
