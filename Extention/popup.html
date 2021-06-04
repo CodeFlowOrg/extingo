@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traversry Launcher</title>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans" type = "text/css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" 
+    integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" 
+    crossorigin="anonymous">
+
+    <style>
+        html , body 
+        {
+            font-family: "Open Sans" , sans-serif;
+            font-size : 14px;
+            margin : 0;
+            min-height: 180px;
+            padding : 0;
+            width : 384px;
+
+
+        }
+
+        h1
+        {
+            font-family : 'Menlow' , monospace;
+            font-size : 22px;
+            font-weight : 400;
+            margin : 0;
+            color : #2f5876;
+
+        }
+
+        img {
+            width : 30pxs;
+        }
+        .model-header{
+            align-items: center;
+            border-bottom: 0.5px solid  #dadada;
+
+        }
+        .model-content{
+            padding : 0 22px;
+
+        }
+
+        .model-icons{
+            border-top: 0.5px solid #dadada;
+            height : 50px;
+            width : 100%
+        }
+        .logo
+        {
+            padding : 16px;
+        }
+        .logo-icon
+        {
+            vertical-align:text-bottom;
+            margin-right : 12px;
+            height:50px;
+            width : 50px;
+        }
+        .version
+        {
+            color : rgba(223, 126, 37, 0.267);
+            font-size : 18px;
+
+
+        }
+        .flex-container{
+            display: flex;
+            justify-content : space-between;
+            padding : 10px 22px;
+
+        }
+
+        .flex{
+            opacity : 1;
+            transition : opacity 0.2s ease-in-out;
+            width : 120px ;
+        }
+
+        .flex:hover{
+            opacity : 0.4;
+        }
+        .flex.fa
+        {
+            font-size : 40px;
+            color : #e08f24;
+
+        }
+
+        a:link, a:visited
+        {
+            color : #000;
+            outline : 0;
+            text-decoration : none;
+        }
+    </style>
+    
+</head>
+<body>
+<div class="model-header">
+    <h1class="logo">
+        <img src="images/traversry-logo.jpg" alt="Traversry Launcher" class="logo-icon">  Codeflow Launcher
+         <span class="version">(1.0.0)</span>
+    </h1>
+</div>
+    <div class="model-content">
+    <p>
+        Easily Access Codeflow content
+    </p>
+</div>
+<div class="model-icons">
+    <div class="flex-container">
+        
+        <div class="flex">
+            <a href="https://github.com/codeflow201"  target = "_blank">
+            <i class="fa fa-github"></i>
+        </a>
+        </div>
+        
+        <div class="flex">
+            <a href="https://twitter.com/codefloworg"  target = "_blank">
+            <i class="fa fa-twiter"></i>
+        </a>
+        </div>
+        <div class="flex">
+            <a href="https://t.me/joinchat/FdJhyMumJK5sryCv"  target = "_blank">
+            <i class="fa fa-telegram"></i>
+        </a>
+        </div>
+        <div class="flex">
+            <a href="https://www.youtube.com/channel/UCIsECRBRWOalTC51co-tJWg"  target = "_blank">
+            <i class="fa fa-youtube"></i>
+        </a>
+        </div>
+        <div class="flex">
+            <a href="https://www.linkedin.com/company/codefloworg/"  target = "_blank">
+            <i class="fa fa-linkedin"></i>
+        </a>
+        </div>
+
+
+    </div>
+</div>
+<script src ="popup.js"></script>
+</body>
+</html>
